@@ -18,6 +18,6 @@
 
 7. Vehicle Forensics
 
-## Languages Used in the Projects
+## Languages Used in these Projects
 
-![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=kruzee07&repo=projects-university&layout=pie&langs_count=8&theme=synthwave)
+![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=kruzee07&repo=projects-university&layout=pie&langs_count=8&theme=synthwave&hide=html)

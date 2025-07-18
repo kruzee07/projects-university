@@ -17,3 +17,7 @@
 6. JASS Database System
 
 7. Vehicle Forensics
+
+## Languages Used in the Projects
+
+![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=kruzee07&repo=projects-university&layout=pie&langs_count=8&theme=synthwave)
